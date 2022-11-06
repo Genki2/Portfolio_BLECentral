@@ -3,7 +3,7 @@ Bluetoothを使用して送信された任意の数字を受信するアプリ
 
 下記送信側のアプリと一緒に使用することで送受信が確認できる
 
-[送信側リポジトリ](https://github.com/Genki2/Portfolio_BLECentral)
+[送信側リポジトリ](https://github.com/Genki2/Portfolio_BLEPeripheral)
 
 ## 機能
 * CoreBluetooth
