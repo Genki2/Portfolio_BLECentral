@@ -5,7 +5,7 @@ Bluetoothを使用して送信された任意の数字を受信するアプリ
 
 [送信側リポジトリ](https://github.com/Genki2/Portfolio_BLEPeripheral)
 
-## 機能
+## 使用ライブラリー
 * CoreBluetooth
 
 ## アプリ画像（受信側）
